@@ -1,0 +1,28 @@
+#you {
+  width: 200px;
+  height: 200px
+}
+#inventor {
+  width: 200px;
+  height: 200px
+}
+#janitor {
+  width: 200px;
+  height: 200px
+}
+#prof {
+  width: 200px;
+  height: 200px
+}
+#zombie {
+  width: 200px;
+  height: 200px
+}
+button {
+  background-color: red;
+  width: 500px;
+  height: 250px;
+  margin: 0 auto;
+  display: block;
+}
+
